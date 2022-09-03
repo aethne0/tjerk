@@ -3,19 +3,18 @@
 # (Reimplement them for practice)
 # (or else)
 
-#prelimA remove duplicates
-def uniq(l):
-	"""Return new version of l without any duplicates
-	(you already did this)"""
-	pass
-
-
-#prelimB list has
+#prelim-A list has
 def has(l, value):
 	"""Return True if 'l' contains 'value', else false
 	(you already did this)"""
 	pass
 
+
+#prelim-B remove duplicates
+def uniq(l):
+	"""Return new version of l without any duplicates
+	(you already did this)"""
+	pass
 
 
 #0 count element
