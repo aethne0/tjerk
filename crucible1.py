@@ -140,7 +140,7 @@ def cartesian_product(l1, l2):
 	pass
 
 
-#13 check if prefix
+#13a check if prefix
 def is_prefix(s1, s2):
 	"""Return True if 's2' is a prefix of 's1', otherwise False"""
 	# example: is_prefix("abcd", "ab")  ->  True
@@ -151,6 +151,15 @@ def is_prefix(s1, s2):
 	# example: is_prefix("abcd", "")  ->  True
 	pass
 
+
+#13a check if suffix
+def is_suffix(s1, s2):
+	"""Return True if 's2' is a suffix of 's1', otherwise False"""
+	# example: is_prefix("abcd", "cd")  ->  True
+	# example: is_prefix("abcd", "abcd")  ->  True
+	# example: is_prefix("abcd", "")  ->  True
+	# example: is_prefix("abcd", "bc")  ->  True
+	pass
 
 #14 check if palindrome
 def is_palindrome(s):
